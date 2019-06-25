@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+<meta= charset="UFT-8">
+    <title> google form </title>
+
+</head>
+<body>
+    <h1> session 1 - tuseday attendance </h1>
+<p style="color: red" > * required </p>
+<label for="name"> Name*  </label>
+<BR> <BR>
+<input id="name" type="text" placeholder=" your answer"> 
+<br> <br>
+<label for="no."> Number* </label>
+<br> <br>
+<input id = no. type="number" placeholder="your answer "> 
+<br> <br>
+<button style = "text-align: center ; color: aquamarine ;" type="button" value = ok> 
+</button>
+</body>
+    </html>
